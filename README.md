@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @ankitkanani02
-- 👀 I’m interested in machine learning, AI, Flutter developement
-- 🌱 I’m currently learning MAchine Learning
-- 💞️ I’m looking to collaborate on no one yet
-- 📫 How to reach me ...
-
-<!---
-ankitkanani02/ankitkanani02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in exploring the filed of ML & AI and get to know the experts in this area. 
+- Hello there! Thank you for visiting my GitHub profile; its great to meet you. My name is Ankit Kanani - a dedicated software developer specializing in Python programming language coupled alongside Machine Learning technologies as well as Dart and Flutter frameworks.
+- Solving complex problems using innovative approaches is something that I relish doing passionately; enabled thanks to the wealth of experience garnered while working across various industries - tackling numerous challenges along the way successfully. During this period I achieved significant milestones and delivered remarkable projects.
+- Collaborating efficiently with others while learning from their experiences is integral to my work ethics and I thrive best in team environments. Knowledge sharing within the community is also of utmost importance hence my active participation in various open source projects.
+- Aside from coding attending tech conferences or engaging online communities outside usual hours provides avenues for staying up to date with industry trends- an essential aspect of software development. I hope you find my GitHub profile intriguing.
+- Please feel free to explore my repositories or reach out for any exciting collaborations that can yield positive impacts through technology.
+- Thank you again for visiting - looking forward to connecting soon!
